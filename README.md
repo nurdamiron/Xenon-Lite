@@ -33,9 +33,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 # Xenon Project Plan
 
+The goal of this project plan is to create a Minimum Viable Product (MVP) for Xenon by the end of summer.
+
 ## Phase 1: Project Initiation
 
-1. Define project scope and objectives
+1. Define project scope and objectives for MVP
 2. Identify stakeholders
 3. Establish project team roles and responsibilities
 4. Develop a project charter
@@ -44,44 +46,43 @@ These instructions will get you a copy of the project up and running on your loc
 ## Phase 2: Requirements Gathering & Analysis
 
 1. Conduct stakeholder interviews and workshops
-2. Gather and document user stories and functional requirements
-3. Prioritize features based on user needs and business value
+2. Gather and document user stories and functional requirements for MVP
+3. Prioritize MVP features based on user needs and business value
 4. Create a product backlog
 5. Develop user personas and scenarios
 
 ## Phase 3: Design
 
-1. Create wireframes and mockups for key app components
+1. Create wireframes and mockups for key MVP app components
 2. Design and finalize UI/UX
 3. Develop a design system/style guide
-4. Create an information architecture (sitemap, user flows)
-5. Review and get approval for designs from stakeholders
+4. Create an information architecture (sitemap, user flows) for MVP
+5. Review and get approval for MVP designs from stakeholders
 
 ## Phase 4: Development
 
 1. Set up development environment and tools
 2. Choose and set up version control system (e.g., Git)
-3. Develop backend (APIs, authentication, database schema)
-4. Develop frontend (UI components, interactivity, API integration)
+3. Develop backend (APIs, authentication, database schema) for MVP features
+4. Develop frontend (UI components, interactivity, API integration) for MVP features
 5. Implement responsive design for mobile and desktop compatibility
-6. Create unit tests and perform continuous integration
+6. Create unit tests and perform continuous integration for MVP
 
 ## Phase 5: Testing
 
-1. Conduct functional testing
-2. Perform usability testing with target users
-3. Test app on different devices and browsers for compatibility
-4. Conduct performance testing (load, stress, etc.)
-5. Perform security testing and address vulnerabilities
+1. Conduct functional testing of MVP
+2. Perform usability testing with target users for MVP
+3. Test MVP on different devices and browsers for compatibility
+4. Conduct performance testing (load, stress, etc.) for MVP
+5. Perform security testing and address vulnerabilities in MVP
 
 ## Phase 6: Deployment & Maintenance
 
 1. Set up hosting and deployment environment (e.g., AWS, Heroku)
-2. Deploy app to production
-3. Monitor app performance and fix issues
-4. Gather user feedback and make improvements
-5. Perform regular maintenance and updates
-
+2. Deploy MVP to production
+3. Monitor MVP performance and fix issues
+4. Gather user feedback on MVP and make improvements
+5. Perform regular maintenance and updates on MVP
 
 ### Installation
 
