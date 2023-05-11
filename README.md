@@ -2,7 +2,7 @@
 
 Xenon is a web application that combines the features of a professional social network like LinkedIn with a task management system, specifically designed for companies. It aims to streamline communication and collaboration within organizations, making it easier for employees to connect, share updates, and manage their tasks.
 
-## Featuress
+## Features
 
 - **User Profiles**: Users can create and edit their profiles, showcasing their skills, experience, and roles within the company.
 - **News Feed**: A real-time feed displaying updates from colleagues, company news, and relevant content.
